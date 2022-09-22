@@ -23,7 +23,7 @@
                         </label>
                     </div>
                     <div class="col mb-2 mt-4 text-right box-btn">
-                        <button type="submit" value="" class="btn_valider">envoyer</button>
+                        <button type="submit" value="" class="btn_valider">Conexion</button>
                     </div>
                 </form>
                
