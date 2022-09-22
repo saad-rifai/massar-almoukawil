@@ -1042,6 +1042,7 @@ input.form-input,textarea.form-textarea,select.select-input{
     padding: 10px 40px;
     font-weight: 300;
 }
+
 .btn_valider:hover {
     background-color: #fff;
     color: #005a91;
@@ -1054,7 +1055,18 @@ input.form-input,textarea.form-textarea,select.select-input{
     outline: 0;
     box-shadow: none;
 }
-
+.form-login {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+    border-radius: 5px;
+    margin-bottom: 3rem;
+}
+.box-btn >.btn_valider{
+    padding: 5px 30px;
+}
 @media only screen 
 and (max-device-width : 1339px) 
 and (orientation : portrait) {

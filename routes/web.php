@@ -1228,3 +1228,6 @@ Route::get('accompagnements-specifiques/reseautage', function () {
 Route::get('accompagnements-specifiques/formation-spécifique', function () {
     return view('pages.accompagnements-specifiques.formation-spécifique');
 });
+Route::get('accompagnements-specifiques/managérial', function () {
+    return view('pages.accompagnements-specifiques.managérial');
+});

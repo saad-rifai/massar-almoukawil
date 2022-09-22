@@ -10,17 +10,14 @@
             <br>
             <div class="container-body ">
                 <div class="section-title-br mb-5">
-                    <h1>
-                        Formulaire de la partie accompagnament réseautage
-                    </h1>
+                    <h1>Formulaire de la partie accompagnament réseautage</h1>
                 </div>
                 <div class="container1">
-
                     <form class="form-container">
                         <div class="row row-cols-1 mx-auto justify-content-center">
                             <div class="col-sm mb-3 ">
                                 <label class=" form-label">Nom :</label>
-                                    <input type="text" class="form-control " placeholder="Nom"/>
+                                    <input type="text" class="form-control " placeholder="Nom" autofocus/>
                             </div>
                             <div class="col-sm mb-3 ">
                                 <label class="form-label">Prénom :</label>
