@@ -1225,3 +1225,6 @@ Route::get('accompagnements-specifiques/digital', function () {
 Route::get('accompagnements-specifiques/reseautage', function () {
     return view('pages.accompagnements-specifiques.reseautage');
 });
+Route::get('accompagnements-specifiques/formation-spécifique', function () {
+    return view('pages.accompagnements-specifiques/formation-spécifique');
+});
