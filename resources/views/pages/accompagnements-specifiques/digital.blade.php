@@ -17,6 +17,7 @@
                     </h1>
                 </div>
                 <div class="container1">
+
                     <form class="form-container">
                         <div class="row row-cols-1 mx-auto justify-content-center">
                             <div class="col-sm mb-3 ">
@@ -26,7 +27,6 @@
                             <div class="col-sm mb-3 ">
                                 <label class="form-label">Prénom :</label>
                                 <input type="text" class="form-control" placeholder="Prénom"/>
-
                             </div>
                             <div class="col mb-3">
                                 <label class=" form-label">Nom de société / Projet :</label>

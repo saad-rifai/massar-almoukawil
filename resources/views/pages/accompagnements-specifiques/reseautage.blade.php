@@ -6,62 +6,71 @@
         @include('assets.navbar')
 
         <div class="body_card mt-5 mb-5">
+            <br>
+            <br>
             <div class="container-body ">
-                <h3 class="title-form">Formulaire de la partie accompagnament réseautage</h3>
+                <div class="section-title-br mb-5">
+                    <h1>
+                        Formulaire de la partie accompagnament réseautage
+                    </h1>
+                </div>
                 <div class="container1">
-                    <form>
-                        <fieldset>
-                            <div class="full_name">
-                                <div class="box">
-                                    <label class=" blue-section-title">Nom :</label>
-                                    <input type="text" class="form-input w-100" placeholder="Nom"/>
-                                </div>
-                                <div  class="box">
-                                    <label class="blue-section-title">Prénom :</label>
-                                    <input type="text" class="form-input w-100" placeholder="Prénom"/>
-                                </div>
+
+                    <form class="form-container">
+                        <div class="row row-cols-1 mx-auto justify-content-center">
+                            <div class="col-sm mb-3 ">
+                                <label class=" form-label">Nom :</label>
+                                    <input type="text" class="form-control " placeholder="Nom"/>
                             </div>
-                            <div class="box">
-                                <label class=" blue-section-title">Nom de société / Projet :</label>
-                                <input type="text" class="form-input" placeholder="Nom de société / Projet"/>
-                            </div>    
-                            <div  class="box">
-                                <label class="blue-section-title">Secteur d'activité :</label>
-                                <select class="select-input">
+                            <div class="col-sm mb-3 ">
+                                <label class="form-label">Prénom :</label>
+                                <input type="text" class="form-control" placeholder="Prénom"/>
+                            </div>
+                            <div class="col mb-3">
+                                <label class=" form-label">Nom de société / Projet :</label>
+                                <input type="text" class="form-control " placeholder="Nom de société / Projet"/>
+                            </div>
+                            <div class="col-sm mb-3">
+                                <label class="form-label">Secteur d'activité :</label>
+                                <select class="form-select">
                                     <option value="1">1</option>
                                     <option value="1">1</option>
                                     <option value="2">2</option>
                                     <option value="3">3</option>
                                 </select>
                             </div>
-                            <div  class="box">
-                                <label class="blue-section-title">Type Juridique :</label>
-                                <select class="select-input">
+                            <div class="col-sm mb-3">
+                                <label class="form-label">Type Juridique :</label>
+                                <select class="form-select">
                                     <option value="1">1</option>
                                     <option value="2">2</option>
                                     <option value="3">3</option>
                                 </select>
                             </div>
-                            <div  class="box">
-                                <label class="blue-section-title">Nombre d'employés :</label>
-                                <input type="number" class="form-input" placeholder="Nombre d'employés"/>
+                            <div class="col mb-3">
+                                <label class="form-label">Nombre d'employés :</label>
+                                <input type="number" class="form-control" placeholder="Nombre d'employés"/>
                             </div>
-                            <div  class="box">
-                                <label class="blue-section-title">Adresse :</label>
-                                <input type="text" class="form-input" placeholder="Adresse" />
+                            <div class="col mb-3">
+
+                                <label class="form-label">Adresse :</label>
+                                <input type="text" class="form-control" placeholder="Adresse" />
                             </div>
-                            <div  class="box">
-                                <label class="blue-section-title">Ville :</label>
-                                <input type="text" class="form-input" placeholder="Ville"/>
+                            <div class="col mb-3">
+                                <label class="form-label">Ville :</label>
+                                <input type="text" class="form-control" placeholder="Ville"/>
+
                             </div>
-                            <div  class="box">
-                                <label class="blue-section-title">Montant du chiffre d'affaires annuel :</label>
-                                <input type="number" placeholder="Montant du chiffre d'affaires annuel" class="form-input"/>
+                            <div class="col mb-3">
+                                <label class="form-label">Montant du chiffre d'affaires annuel :</label>
+                                <input type="number" placeholder="Montant du chiffre d'affaires annuel" class="form-control"/>
+
                             </div>
-                            <div  class="box_btn">
-                                <input type="submit" value="valider" class="btn_valider"/>
+                            <div class="col mb-3 mt-4 text-right">
+                                <button type="submit" value="" class="btn_valider">envoyer</button>
                             </div>
-                        </fieldset>
+                        </div>
+                
                     </form>
                 </div>
                 <br>
