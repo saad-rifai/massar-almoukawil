@@ -18,7 +18,7 @@
                     <label for="inputPassword" class="form-label">Mot de passe:</label>
                     <input type="password" id="inputPassword" class="form-control mb-2" placeholder="Mot de passe" required >
                     <div class="checkbox mb-3">
-                        <label>
+                        <label class="form-label">
                             <input type="checkbox" value="remember-me"> Remember me
                         </label>
                     </div>
