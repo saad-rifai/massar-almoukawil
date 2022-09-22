@@ -1215,3 +1215,13 @@ Route::get('trouver-et-valuer-son-id-e-d-entreprise/quels-conseils-pour-r-ussir-
 Route::get('503', function () {
     return view('pages.errors-pages.503');
 });
+
+
+/*accompagnements-specifiques */
+
+Route::get('accompagnements-specifiques/digital', function () {
+    return view('pages.accompagnements-specifiques.digital');
+});
+Route::get('accompagnements-specifiques/reseautage', function () {
+    return view('pages.accompagnements-specifiques.reseautage');
+});
