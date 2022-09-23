@@ -309,7 +309,6 @@
                                             <td>
                                             </td>
                                         </tr>
-                                            Résidence la tulipe, avenue Moulay Rachid, Appt N°21-Tanger
                                         <tr>
                                             <td>
                                                 <p>BOUZAFFOUR&nbsp;TAOUFIQ</p>
