@@ -276,7 +276,6 @@
                                             <td>
                                             </td>
                                         </tr>
-
                                         <tr>
                                             <td>
                                                 <p>BERNOSSI&nbsp;KOUDS</p>
@@ -361,7 +360,6 @@
                                             <td>
                                             </td>
                                         </tr>
-                                        Angle Bd, Med V et Rue Ibn Katir Résd Dos Mores Apt N°68 - Tanger
                                         <tr>
                                             <td>
                                                 <p>EL&nbsp;AZZOUZI&nbsp;AZDDIN</p>
@@ -519,8 +517,6 @@
                                             <td>
                                             </td>
                                         </tr>
-                                          
-                                        
                                         <tr>
                                             <td>
                                                 <p>LOUBNA&nbsp;OURTASSI</p>
