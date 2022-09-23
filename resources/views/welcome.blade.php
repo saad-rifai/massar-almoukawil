@@ -822,7 +822,7 @@ $('.customer-logos-3')
         $("#slider_title").html('Sponsorisé par');
 
     }else if($(".slick-active").hasClass("slide_1")){
-        $("#slider_title").html('Platform développé par');
+        $("#slider_title").html('Plate-forme développé par');
 
     }
     
