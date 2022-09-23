@@ -621,7 +621,7 @@ digital.
                     <div class="row align-items-center h-100">
                         <div class="col container">
                             <div class="card-small-title">
-                                <span>Autre platform d'accompagnemt</span>
+                                <span>Autres plate-forme d'accompagnement</span>
                             </div>
                             <div class="customer-logos slider">
                                 <div class="logo-simple slide">
@@ -693,7 +693,7 @@ digital.
                     <div class="row align-items-center h-100">
                         <div class="col container">
                             <div class="card-small-title">
-                                <span id="slider_title">Platform développé par</span>
+                                <span id="slider_title">Plate-forme </span>
                             </div>
                             <div  class="customer-logos-3 slider">
                                 <div id="" class="customer-logos-2 slider slide_1">
