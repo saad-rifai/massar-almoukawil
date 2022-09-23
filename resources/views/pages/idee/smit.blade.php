@@ -111,7 +111,7 @@
         <br>
         <div class="next-btn-box">
             <a href="{{(asset('idee/mic'))}}">
-                <button class="next_btn">MIC</button>
+                <button class="next_btn">Banque de projets industriels</button>
             </a>
         </div>
         <hr>

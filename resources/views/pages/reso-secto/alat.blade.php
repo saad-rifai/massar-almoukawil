@@ -114,9 +114,7 @@
                                         <li>
                                             <span class="section_normale_contact_list_icon "><i
                                                     class="las la-phone position-absolute top-50 start-50 translate-middle"></i></span>
-                                            <a href="tel:+212 666-995733
-">+212 666-995733
-                                                /</a>
+                                            <a href="tel:+212 666-995733">+212 666-995733</a>
 
                                             </a>
                                         </li>
@@ -133,11 +131,8 @@
                                         <li>
                                             <span class="section_normale_contact_list_icon"><i
                                                     class="las la-envelope position-absolute top-50 start-50 translate-middle"></i></span><a
-                                                href="mailto:alat.message@gmail.
-com
-">
-                                                alat.message@gmail.
-                                                com</a>
+                                                href="mailto:alat.message@gmail.com">
+                                                alat.message@gmail.com</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -152,7 +147,7 @@ com
                 </div>
                 <hr class="section_hr">
                 <div class="text-containet text-center">
-                    <a href="http://www.amtrimaroc.com/page/homepage/" target="_blanck">
+                    <a href="https://web.facebook.com/ALA.TANGER/" target="_blanck">
                         <button class="lg-btn-produit"><i class="las la-external-link-alt"></i> Visitez le site
                             Web</button>
                     </a>

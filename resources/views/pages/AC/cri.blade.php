@@ -25,7 +25,7 @@
                         établissement public doté de
                         la personnalité morale. Il a pour vocation la facilitation et l’accompagnent des investisseurs
                         dans la région.
-                        Le CRI est chargé de contribuer à la mise en œuvre de la politique de l’Etat en matière de
+                       <br> Le CRI est chargé de contribuer à la mise en œuvre de la politique de l’Etat en matière de
                         développement, d’incitation
                         et de promotion des investissements et d’accompagnement global des entreprises, notamment les
                         TPE/PME.

@@ -48,7 +48,7 @@
                             </div>
                             <div class="box_user_name">
                                 <h4><strong>Mohamed Amine ANAGAM</strong> <br>
-                                    Respensable du CA TANGER
+                                    Responsable du CA TANGER
                                     TAMWILCOM
                                 </h4>
                             </div>
@@ -99,7 +99,7 @@
                             </div>
                             <div class="box_user_name">
                                 <h4><strong>Abdelhamid BENDAOUED</strong> <br>
-                                    Respensable DAR MOKAWIL
+                                    Responsable DAR MOKAWIL
                                     Pasteur 
                                     TANGER
                                 </h4>
@@ -113,7 +113,7 @@
                             </div>
                             <div class="box_user_name">
                                 <h4><strong>Hatim BENTRIA</strong> <br>
-                                    Respensable DAR MOKAWIL
+                                    Responsable DAR MOKAWIL
                                     DRISSIA TANGER
                                 </h4>
                             </div>
@@ -164,7 +164,7 @@
                     <h1>Développé par</h1>
                 </div>
 
-                <div class="list-logos" data-aos="fade-up" data-aos-duration="3000">
+                <div class="list-logos equipe_page" data-aos="fade-up" data-aos-duration="3000">
                     <div class="logo-img-b">
                         <img src="{{asset('images/partners/CGEM.png')}}" alt="">
                     </div>
@@ -190,7 +190,7 @@
                     <h1>Sponsorisé Par</h1>
                 </div>
 
-                <div class="list-logos" data-aos="fade-up" data-aos-duration="3000">
+                <div class="list-logos equipe_page" data-aos="fade-up" data-aos-duration="3000">
                     <div class="logo-img-b"><img src="{{asset('images/logos/logo_mfe.png')}}" alt=""></div>
 
                 </div>

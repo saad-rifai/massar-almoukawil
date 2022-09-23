@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="author" content="NERYOU">
 
     <title>Massar Al Moukawil -
         @if(View::hasSection('title'))
@@ -66,6 +67,9 @@ digital.
     <script>
 
     </script>
+      <meta name="keywords" content="Massar Al Moukawil, massar al mokawil, neryou, desky, Cartographie de l'écosystème entrepreneurial et mécanismes d'accompagnement de la région TTA, dar al moukawil, tamwilcom, Accompagnement sur création
+, Accompagnement des strart-up, tanger">
+
 </head>
 <div class="rotate-rquest-bg">
     <div class="content-rotate text-center position-absolute top-50 start-50 translate-middle"

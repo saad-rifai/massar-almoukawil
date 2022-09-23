@@ -38,16 +38,7 @@ projets et petites entreprises dans leurs activités.
                         <li>Proposer un processus pour prot&eacute;ger l&rsquo;id&eacute;e du projet</li>
                         </ul>
                 </div>
-                <div class="text-containet">
-                    <h2 class="blue-section-title">
-                        Démarches
-                    </h2>
-                    <p class="section_normale_text">
-                        Inscription en ligne sur : <a
-                            href="https://plateforme.smit.gov.ma/moovapps/easysite/workplace">https://plateforme.smit.gov.ma/moovapps/easysite/workplace</a>
-
-                    </p>
-                </div>
+               
                 <hr class="section_hr">
                 <div class="text-containet">
                     <div class="row">
@@ -55,38 +46,37 @@ projets et petites entreprises dans leurs activités.
                             <h2 class="blue-section-title">
                                 Contact
                             </h2>
-                            <div class="row">
-                                <div class="col">
-                                    <ul class="section_normale_contact_list">
-                                        <li>
-                                            <span class="section_normale_contact_list_icon "><i
-                                                    class="las la-phone position-absolute top-50 start-50 translate-middle"></i></span>
-                                            <a href="tel:+212 5 38 80 07 88">Tanger: +212 5 38 80 07 88</a>
-                                             
-                                        </li>
-                                        <li><span class="section_normale_contact_list_icon"><i class="las la-map-marker position-absolute top-50 start-50 translate-middle"></i></span>
+                          
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th>Tel</th>
+                                        <th>Adresse</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td><a href="tel:05 38 80 07 88">05 38 80 07 88</a></td>
+                                        <td>
                                             Angle boulevard Pasteur et rue Moulay
-                                            Abdellah, Tanger 
-                                            
-                                        </li>
-                                        <li>
-                                            <span class="section_normale_contact_list_icon "><i
-                                                    class="las la-phone position-absolute top-50 start-50 translate-middle"></i></span>
-                                                    <a href="tel:+212 5 39 98 52 74">AL HOCEIMA: +212 5 39 98 52 74</a>
-                                             
-                                        </li>
-                                        <li><span class="section_normale_contact_list_icon"><i class="las la-map-marker position-absolute top-50 start-50 translate-middle"></i></span>
+                                             Abdellah, Tanger 
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td><a href="tel:05 39 98 52 74">05 39 98 52 74</a></td>
+                                        <td>
                                             90 Avenue Mohamed V, AL HOCEIMA
-                                            
-                                        </li>
-                                        <li><span class="section_normale_contact_list_icon"><i class="las la-map-marker position-absolute top-50 start-50 translate-middle"></i></span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td></td>
+                                        <td>
                                             Agence TANGER TARIK IBN ZIAD 
+                                        </td>
+                                    </tr>
+                                </tbody>
 
-                                            
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
+                            </table>
                         </div>
                 
 
@@ -107,8 +97,8 @@ projets et petites entreprises dans leurs activités.
         <br>
         <div class="row ">
             <div class="col">
-                <a href="{{(asset('idee/MIC'))}}">
-                    <button class="previous_btn">MIC</button>
+                <a href="{{(asset('idee/mic'))}}">
+                    <button class="previous_btn">Banque de projets industriels</button>
                 </a>
             </div>
             <div class="col">

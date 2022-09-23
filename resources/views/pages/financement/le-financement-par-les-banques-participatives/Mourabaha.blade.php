@@ -154,23 +154,9 @@ véhicule, équipement…). ')
                     <h2 class="blue-section-title">
                         Contact
                     </h2>
-                   <table class="table">
-                    <tbody>
-                        <tr>
-                            <th>Umnia bank TETOUAN</th>
-                            <td>M.CHAMCHOUM IMAD</td>
-                            <td> <a href="tel:06 69 74 83 73">06 69 74 83 73</a> </td>
-                   
-                        </tr>
-
-                        <tr>
-                            <th>Umnia bank TANGER</th>
-                            <td>M.BENOMAR REDOUAN </td>
-                            <td> <a href="tel: 06 69 74 93 20"> 06 69 74 93 20</a> </td>
-                   
-                        </tr>
-                    </tbody>
-                   </table>
+                    <p class="section_normale_text"> <a href="{{asset('contacts/banques-participatives')}}">voir liste des
+                        contacts <i class="fas fa-external-link"></i></a>
+                </p>
 
                 </div>
                 <br>

@@ -56,14 +56,7 @@
                         Elle vous offre des opportunités d’investissement industriels dans différents secteurs.
                     </p>
                 </div>
-                <div class="text-containet">
-                    <h2 class="blue-section-title">
-                        Démarches
-                    </h2>
-                    <p class="section_normale_text">Inscription en ligne sur : <a
-                            href="https://plateforme.smit.gov.ma/moovapps/easysite/workplace">https://plateforme.smit.gov.ma/moovapps/easysite/workplace</a>
-                    </p>
-                </div>
+    
                 <hr class="section_hr">
                 <div class="text-containet">
                     <div class="row">

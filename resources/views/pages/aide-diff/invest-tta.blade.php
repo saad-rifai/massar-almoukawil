@@ -12,7 +12,7 @@
                 <div class="section-title-br">
                     <h1>
                         Le Centre Régional
-                        d'Investissement de la Région de
+                        d'Investissement de la Région de <br>
                         Tanger-Tétouan-Al Hoceima
                         (Volet conciliation et aide
                         /difficultés)
@@ -30,7 +30,7 @@
                         établissement public doté de
                         la personnalité morale. Il a pour vocation la facilitation et l’accompagnent des investisseurs
                         dans la région.
-                        • Le CRI peut également fournir aux entreprises le conseil et l’aide nécessaires pour surmonter
+                       <br> Le CRI peut également fournir aux entreprises le conseil et l’aide nécessaires pour surmonter
                         les obstacles et difficultés
                         éventuelles durant l’exercice de leurs activités notamment via le service de la conciliation.
                 </div>
@@ -38,15 +38,15 @@
                     <h2 class="blue-section-title">
                         Services
                     </h2>
-                    <p>Veiller &agrave; la bonne application du processus de conciliation / M&eacute;diation / Arbitrage en cas de litige, de garantir le traitement des<br />r&eacute;clamations des investisseurs ; tout en respectant les valeurs de confidentialit&eacute;, qualit&eacute;, efficacit&eacute;, r&eacute;activit&eacute;, impartialit&eacute;, &Eacute;quit&eacute;.<br />Le CRI est ainsi habilit&eacute; dans le cadre de ces missions a :</p>
+                    <p>Veiller &agrave; la bonne application du processus de conciliation / M&eacute;diation / Arbitrage en cas de litige, de garantir le traitement desr&eacute;clamations des investisseurs ; tout en respectant les valeurs de confidentialit&eacute;, qualit&eacute;, efficacit&eacute;, r&eacute;activit&eacute;, impartialit&eacute;, &Eacute;quit&eacute;.Le CRI est ainsi habilit&eacute; dans le cadre de ces missions a :</p>
                     <ul>
-                    <li><br />R&eacute;ceptionner et instruire des demandes de conciliation.</li>
-                    <li><br />Contribuer &agrave; la conduite du rapprochement des points de vue entre investisseurs et administrations ou organismes publics.</li>
-                    <li><br />Traiter les dol&eacute;ances, analyser leurs causes et pr&eacute;coniser des solutions &eacute;quitables.</li>
-                    <li><br />Animer les r&eacute;unions de conciliation et suivre les &eacute;changes entre parties prenantes.</li>
-                    <li><br />Assurer une m&eacute;diation entre parties prenantes.</li>
-                    <li><br />R&eacute;ceptionner et instruire les r&eacute;clamations des investisseurs.</li>
-                    <li><br />Suivre tous les litiges des investisseurs avec les administrations et organismes publics.</li>
+                    <li>R&eacute;ceptionner et instruire des demandes de conciliation.</li>
+                    <li>Contribuer &agrave; la conduite du rapprochement des points de vue entre investisseurs et administrations ou organismes publics.</li>
+                    <li>Traiter les dol&eacute;ances, analyser leurs causes et pr&eacute;coniser des solutions &eacute;quitables.</li>
+                    <li>Animer les r&eacute;unions de conciliation et suivre les &eacute;changes entre parties prenantes.</li>
+                    <li>Assurer une m&eacute;diation entre parties prenantes.</li>
+                    <li>R&eacute;ceptionner et instruire les r&eacute;clamations des investisseurs.</li>
+                    <li>Suivre tous les litiges des investisseurs avec les administrations et organismes publics.</li>
                     </ul>
                 </div>
                 <div class="text-containet">

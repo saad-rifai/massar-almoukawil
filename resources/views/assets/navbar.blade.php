@@ -9,7 +9,7 @@
     <div class="col col-6 ">
         <div class="card_bg_white h_8vh">
             <h1 class="web_title">
-                Cartographie de l'écosystème entrepreneurial et mécanismes d'accompagnement de la région TTA
+                Cartographie De L'écosystème Entrepreneurial Et Mécanismes D'accompagnement De La Région TTA
             </h1>
         </div>
     </div>

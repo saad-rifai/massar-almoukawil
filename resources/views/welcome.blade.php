@@ -230,7 +230,7 @@ digital.
                                     </ul>
 
                                 </li>
-                                <li><a href="#"> stratégie de marketing</a>
+                                <li><a href="#"> Optimiser sa stratégie marketing</a>
                                     <ul class="side_menu_hover_container_menu_li">
 
                                         <li>
@@ -356,7 +356,7 @@ digital.
 
                                     </ul>
                                 </li>
-                                <li><a href="#">Gérer RH</a>
+                                <li><a href="#">Gérer ressource humain</a>
                                     <ul class="side_menu_hover_container_menu_li">
 
                                         <li>
@@ -538,7 +538,7 @@ digital.
                             <li><a href="503">Accompagnements / formation</a></li>
 
 
-                            <li><a href="#">Accompagnements digital</a></li>
+                            <li><a href="503">Accompagnements digital</a></li>
 
                         </ul>
                     </div>
@@ -546,7 +546,7 @@ digital.
             </div>
             <div class="col col-6 ">
                 <div class="web-cartographie">
-                    <img src="{{asset('images/13_mkl.png')}}" alt="">
+                    <img src="{{asset('images/13_mkl_2.png')}}" alt="">
                 </div>
             </div>
             <div class="col col-3 mx35vh">
@@ -559,7 +559,7 @@ digital.
                     <div class="body_card_right">
                         <ul class="side-bar-links-2">
                             <a href="#idee" data-bs-toggle="modal" data-bs-target="#idee">
-                                <li>Banques de projets</li>
+                                <li>Idées / Banques de projets</li>
                             </a>
                             <a href="#exampleModal" data-bs-toggle="modal" data-bs-target="#exampleModal">
                                 <li>Création</li>
@@ -701,31 +701,31 @@ digital.
                     <div class="row align-items-center h-100">
                         <div class="col container">
                             <div class="card-small-title">
-                                <span id="slider_title">Plate-forme </span>
+                                <span id="slider_title">Plate-forme développé par </span>
                             </div>
                             <div class="customer-logos-3 slider">
                                 <div id="" class="customer-logos-2 slider slide_1">
                                     <div class="logo-simple slide">
-                                        <img src="{{asset('images/partners/CGEM.png')}}" alt="">
+                                        <img src="{{asset('images/partners/CGEM.png')}}" alt="CGEM TTA">
                                     </div>
                                     <div class="logo-simple slide">
-                                        <img src="{{asset('images/partners/TAMWILCOM.png')}}" alt="">
+                                        <img src="{{asset('images/partners/TAMWILCOM.png')}}" alt="TAMWILCOM">
                                     </div>
                                     <div class="logo-simple slide">
                                         <img src="{{asset('images/partners/DARMOUKAWIL.png')}}" alt="">
                                     </div>
                                     <div class="logo-simple slide">
-                                        <img src="{{asset('images/partners/NERYOU.png')}}" alt="">
+                                        <img src="{{asset('images/partners/NERYOU.png')}}" alt="NERYOU">
                                     </div>
                                     <div class="logo-simple slide">
-                                        <img src="{{asset('images/partners/TECHNOPARK.png')}}" alt="">
+                                        <img src="{{asset('images/partners/TECHNOPARK.png')}}" alt="TECHNOPARK">
                                     </div>
 
                                 </div>
                                 <div id="slide_2" class="customer-logos-2  slide_2">
                                     <div class="logo-simple ">
-                                        <a href="https://www.forcemploi.ma/" target="_blank" rel="noopener noreferrer">
-                                            <img src="{{asset('images/logos/logo_mfe.png')}}" alt=""></a>
+                                        <a href="https://www.forcemploi.ma/" target="_blank">
+                                            <img src="{{asset('images/logos/logo_mfe.png')}}" alt="maroc force emploi"></a>
                                     </div>
 
 
@@ -822,7 +822,7 @@ $('.customer-logos-3')
         $("#slider_title").html('Sponsorisé par');
 
     }else if($(".slick-active").hasClass("slide_1")){
-        $("#slider_title").html('Platform développé par');
+        $("#slider_title").html('Plate-forme développé par');
 
     }
     

@@ -333,6 +333,10 @@ p a {
     color: #025c8f !important;
 
 }
+.list-logos.equipe_page .logo-img-b img {
+    max-height: 75px !important;
+    margin: 20px 15px !important;
+}
 *::-webkit-scrollbar-thumb {
   background-color: #c1c1c1;
   outline: 1px solid #c1c1c1;

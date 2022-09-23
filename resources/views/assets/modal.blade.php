@@ -1960,8 +1960,12 @@
                                     <a href="{{ asset('/zone-ind-ec/zone-KsarLabjir') }}">
 
                                         <div class="section-logo-img">
-                                            <img class="position-absolute top-50 start-50 translate-middle"
-                                                src="{{ asset('images/logos/2/apdn.png') }}" alt="">
+                                            <span
+                                            class="position-absolute top-50 start-50 translate-middle text-center">
+                                            Zone Ksar labjir
+
+
+                                        </span>
                                         </div>
                                     </a>
                                 </div>
