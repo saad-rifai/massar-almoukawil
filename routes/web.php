@@ -1218,7 +1218,6 @@ Route::get('503', function () {
 
 
 /*accompagnements-specifiques */
-
 Route::get('accompagnements-specifiques/digital', function () {
     return view('pages.accompagnements-specifiques.digital');
 });

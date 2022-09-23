@@ -11,10 +11,16 @@ digital.
 - Une foire aux questions permettant d’ouvrir un espace d’échange entre les entrepreneurs.')
 @include('assets.head')
 <style>
-    .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
-    max-width: 3000px !important;
-}
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl,
+    .container-xxl {
+        max-width: 3000px !important;
+    }
 </style>
+
 <body id="boddy">
     <div class="container-lg">
 
@@ -101,7 +107,7 @@ digital.
                                         </li>
                                     </ul>
                                 </li>
-     
+
                                 <li><a href="#">Protéger son idée</a>
                                     <ul class="side_menu_hover_container_menu_li">
                                         <li>
@@ -209,7 +215,8 @@ digital.
                                         <li>
                                             <a
                                                 href="{{asset('communiquer-effectivement/comment-r-aliser-une-campagne-publicitaire-dans-les-m-dias-et-qui-s-adresse')}}">
-                                                Comment réaliser une campagne publicitaire dans les médias et à qui s’adresser ?
+                                                Comment réaliser une campagne publicitaire dans les médias et à qui
+                                                s’adresser ?
 
                                             </a>
                                         </li>
@@ -464,7 +471,7 @@ digital.
                                     </ul>
                                 </li>
                                 <li><a href="#">Transformer son entreprise</a>
-                                    
+
                                     <ul class="side_menu_hover_container_menu_li">
 
                                         <li>
@@ -502,7 +509,8 @@ digital.
 
                                     </ul>
                                 </li>
-                                <li><a href="https://intaliq.ma/?ref=massar_almoukawil_tta" target="_blank">Info issues de Intaliq by CGEM </a></li>
+                                <li><a href="https://intaliq.ma/?ref=massar_almoukawil_tta" target="_blank">Info issues
+                                        de Intaliq by CGEM </a></li>
                             </ul>
                         </div>
                     </div>
@@ -695,7 +703,7 @@ digital.
                             <div class="card-small-title">
                                 <span id="slider_title">Platform développé par</span>
                             </div>
-                            <div  class="customer-logos-3 slider">
+                            <div class="customer-logos-3 slider">
                                 <div id="" class="customer-logos-2 slider slide_1">
                                     <div class="logo-simple slide">
                                         <img src="{{asset('images/partners/CGEM.png')}}" alt="">
@@ -716,7 +724,8 @@ digital.
                                 </div>
                                 <div id="slide_2" class="customer-logos-2  slide_2">
                                     <div class="logo-simple ">
-                                    <a href="https://www.forcemploi.ma/" target="_blank" rel="noopener noreferrer">   <img src="{{asset('images/logos/logo_mfe.png')}}" alt=""></a> 
+                                        <a href="https://www.forcemploi.ma/" target="_blank" rel="noopener noreferrer">
+                                            <img src="{{asset('images/logos/logo_mfe.png')}}" alt=""></a>
                                     </div>
 
 

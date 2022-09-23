@@ -788,14 +788,13 @@
 
         <div class="row">
             <div class="col">
-                <!--a href="{{(asset('/c/pp/e2'))}}">
-                    <button class="previous_btn">Etape n°2</button>
-            </a-->
+         
+                
             </div>
             <div class="col">
 
                 <div class="next-btn-box">
-                    <a href="{{(asset('/ac/lec'))}}">
+                    <a href="{{(asset('/AC/lec'))}}">
                         <button class="next_btn">L'Ordre des comptables</button>
                     </a>
                 </div>
